@@ -12,4 +12,4 @@
 
 * [ ] [來自程式的試鍊 : 專為程式開發人員所寫的技術面試完全攻略](http://www.books.com.tw/products/0010552926)
 
-
+* [ ] [無瑕的程式碼：敏捷軟體開發技巧守則 Clean Code](http://www.books.com.tw/products/0010579897)
