@@ -1,6 +1,6 @@
 # books
 
-## My reading list
+## My Reading List
 
 * [x] [程式碼 番外篇：專業程式設計師的生存之道 The Clean Coder](http://www.books.com.tw/products/0010598217)
  
@@ -13,3 +13,10 @@
 * [ ] [來自程式的試鍊 : 專為程式開發人員所寫的技術面試完全攻略](http://www.books.com.tw/products/0010552926)
 
 * [ ] [無瑕的程式碼：敏捷軟體開發技巧守則 Clean Code](http://www.books.com.tw/products/0010579897)
+
+
+## References
+
+* https://softnshare.wordpress.com/2016/02/24/10classprogrammerbooks/
+* http://www.ithome.com.tw/article/91673
+* http://www.ithome.com.tw/article/88482
