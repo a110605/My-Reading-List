@@ -16,6 +16,7 @@
 
 * [ ] [人月神話：軟體專案管理之道](http://www.books.com.tw/products/0010254508)
 
+* [ ] [Peopleware：腦力密集產業的人才管理之道](https://www.tenlong.com.tw/products/9789866031632)
 
 ## References
 
