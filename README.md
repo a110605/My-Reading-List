@@ -14,6 +14,8 @@
 
 * [ ] [無瑕的程式碼：敏捷軟體開發技巧守則 Clean Code](http://www.books.com.tw/products/0010579897)
 
+* [ ] [人月神話：軟體專案管理之道](http://www.books.com.tw/products/0010254508)
+
 
 ## References
 
