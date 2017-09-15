@@ -18,6 +18,9 @@
 
 * [ ] [Peopleware：腦力密集產業的人才管理之道](https://www.tenlong.com.tw/products/9789866031632)
 
+
+to be continued...
+
 ## References
 
 * https://softnshare.wordpress.com/2016/02/24/10classprogrammerbooks/
