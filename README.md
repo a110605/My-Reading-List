@@ -12,6 +12,8 @@
 
 * [ ] [來自程式的試鍊 : 專為程式開發人員所寫的技術面試完全攻略](http://www.books.com.tw/products/0010552926)
 
+* [ ] [恭喜你錄取了！程式設計師如何贏在面試](https://www.kingstone.com.tw/book/book_page.asp?kmcode=2014713206565)
+
 * [ ] [無瑕的程式碼：敏捷軟體開發技巧守則 Clean Code](http://www.books.com.tw/products/0010579897)
 
 * [ ] [人月神話：軟體專案管理之道](http://www.books.com.tw/products/0010254508)
