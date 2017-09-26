@@ -21,6 +21,7 @@
 * [ ] [Peopleware：腦力密集產業的人才管理之道](https://www.tenlong.com.tw/products/9789866031632)
 
 * [x] [選人才，Google都怎麼做？窺Google、Microsoft、Apple、Amazon等頂尖國際公司的獵人哲學，為自己贏得好工作！](http://www.books.com.tw/products/0010534643)
+
 to be continued...
 
 ## References
