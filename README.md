@@ -16,7 +16,7 @@
 
 * [x] [恭喜你錄取了！程式設計師如何贏在面試](https://www.kingstone.com.tw/book/book_page.asp?kmcode=2014713206565)
 
-* [x]不一樣的旅程：我的雲端築夢與文創人生
+* [x] [不一樣的旅程：我的雲端築夢與文創人生](http://www.books.com.tw/products/0010527914)
 
 * [ ] [人月神話：軟體專案管理之道](http://www.books.com.tw/products/0010254508)
 
