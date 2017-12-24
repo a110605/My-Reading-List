@@ -1,6 +1,6 @@
 # books
 
-## My Reading List
+## Books
 
 * [x] [程式碼 番外篇：專業程式設計師的生存之道 The Clean Coder](http://www.books.com.tw/products/0010598217)
  
