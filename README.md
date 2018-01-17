@@ -10,7 +10,9 @@
 
 * [x] [KVM虛擬化技術實戰與原理解析](http://yongluo2013.github.io/comments-for-kvm-book/)
 
-* [x] [來自程式的試鍊 : 專為程式開發人員所寫的技術面試完全攻略](http://www.books.com.tw/products/0010552926)
+* [ ] [來自程式的試鍊 : 專為程式開發人員所寫的技術面試完全攻略](http://www.books.com.tw/products/0010552926)
+
+* [x] [告別瀑布,擁抱Scrum : 解析微軟與Adobe如何在30天內開發出新軟體](http://www.books.com.tw/products/0010647604)
 
 * [x] [恭喜你錄取了！程式設計師如何贏在面試](https://www.kingstone.com.tw/book/book_page.asp?kmcode=2014713206565)
 
